@@ -1,0 +1,2 @@
+# Autotest
+Автотесты на Cypress
